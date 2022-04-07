@@ -1,0 +1,9 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": false,
+  "editor.formatOnSave": true,
+  "python.linting.flake8Args": ["--max-line-length=200"],
+  "python.linting.mypyEnabled": true,
+  "autoDocstring.docstringFormat": "google",
+  "workbench.colorTheme": "Iceberg"
+}
